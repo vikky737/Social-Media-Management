@@ -393,6 +393,6 @@ git push origin feature-name
 **Aryan Chaturvedi**
 **Sujith Dondapati**
 **HarshaVardhan B**
-**Vikram**
+**Vikram Varma**
 ---
 
